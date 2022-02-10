@@ -5,10 +5,7 @@ Uygulamamız öğrenciler ile öğretmenler arasında kolayca iletişime geçebi
 
 Verilerin kaybolmaması için SQLite Database kullanıldı.
 
-![image](https://user-images.githubusercontent.com/75332138/153491338-f6baf70c-71a2-4ecf-9044-1a70a96b27aa.png)
-
-
-![image](https://user-images.githubusercontent.com/75332138/153491260-3ef6ee14-7a07-4117-97f7-7d6dd2601d49.png)
+![image](https://user-images.githubusercontent.com/75332138/153491338-f6baf70c-71a2-4ecf-9044-1a70a96b27aa.png) ![image](https://user-images.githubusercontent.com/75332138/153491260-3ef6ee14-7a07-4117-97f7-7d6dd2601d49.png)
 
 
 ![image](https://user-images.githubusercontent.com/75332138/153491531-c813170c-4103-42dc-9022-cf893a1430f5.png)
@@ -71,7 +68,7 @@ Verilerin kaybolmaması için SQLite Database kullanıldı.
 ![image](https://user-images.githubusercontent.com/75332138/153491971-fba32529-56dd-4a62-80a0-76f07381bff3.png)
 
 
-![image](https://user-images.githubusercontent.com/75332138/153491988-950abc6e-79f0-4b69-9e84-66dd545539be.png)
+
 
 
 
